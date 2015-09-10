@@ -6,9 +6,9 @@ Docker images based from the official Centos7 image with Java8 JDK/JRE installed
 
 Currently avaliable versions (by tag).
 
-> latest - currently Oracle Java version 8 JRE
-> oracle-8-jre - Oracle Java version 8 JRE
-> oracle-8-jdk - Oracle Java version 8 JDK
+* `latest` - currently Oracle Java version 8 JRE
+* `oracle-8-jre` - Oracle Java version 8 JRE
+* `oracle-8-jdk` - Oracle Java version 8 JDK
 
 # Usage
 
