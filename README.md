@@ -9,6 +9,7 @@ Currently avaliable versions (by tag).
 * `latest` - currently Oracle Java version 8 JRE
 * `oracle-8-jre` - Oracle Java version 8 JRE
 * `oracle-8-jdk` - Oracle Java version 8 JDK
+* `jruby-9.0.1.0` - JRuby 9000 on Oracle Java version 8 JRE
 
 # Usage
 
